@@ -195,8 +195,6 @@ Contributions are welcome! Here's how you can help:
 - [ ] Add image quality/compression options
 - [ ] Create undo functionality (backup system)
 - [ ] Add image filtering (by size, dimensions, etc.)
-- [ ] Progress bar for large batches
-- [ ] Resize images (already renamed for AI Training supported formats (512x512, 768x768, 1024x1024, 2048x2048) (by center of image or manually for each image))
 
 ## 📝 License
 
