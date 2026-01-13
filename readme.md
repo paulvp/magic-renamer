@@ -2,7 +2,8 @@
 
 [🇷🇺 Русский](readme_ru.md) | [🇮🇳 हिन्दी](readme_hi.md)
 
-![](assets/demo.mp4)
+<video src="https://github.com/paulvp/magic-renamer/raw/main/assets/demo.mp4" controls width="600">
+</video>
 
 ## Why I Created It?
 
