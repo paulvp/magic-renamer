@@ -2,6 +2,7 @@
 
 [English](readme.md) | [🇮🇳 हिन्दी](readme_hi.md)
 
+![](assets/demo.mp4)
 
 ## Зачем?
 

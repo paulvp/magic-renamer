@@ -2,7 +2,7 @@
 
 [🇷🇺 Русский](readme_ru.md) | [🇮🇳 हिन्दी](readme_hi.md)
 
-https://github.com/user-attachments/assets/demo.mp4
+![](assets/demo.mp4)
 
 ## Why I Created It?
 
