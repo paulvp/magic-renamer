@@ -2,8 +2,7 @@
 
 [English](readme.md) | [🇮🇳 हिन्दी](readme_hi.md)
 
-<video src="https://github.com/paulvp/magic-renamer/raw/main/assets/demo.mp4" controls width="600">
-</video>
+https://github.com/user-attachments/assets/de6fdec3-2047-45fa-ab36-9c80d24573b1
 
 ## Зачем?
 
