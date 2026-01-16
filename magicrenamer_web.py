@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 MagicRenamer Web Interface
-A web-based GUI for batch converting and renaming images
 """
 
 from flask import Flask, render_template_string, request, jsonify, send_from_directory

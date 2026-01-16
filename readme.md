@@ -1,31 +1,6 @@
 # MagicRenamer
 
-[🇷🇺 Русский](readme_ru.md) | [🇮🇳 हिन्दी](readme_hi.md)
-
-https://github.com/user-attachments/assets/de6fdec3-2047-45fa-ab36-9c80d24573b1
-
-## Why I Created It?
-
-When training LoRA models, I sometimes have hundreds of images of a single character or subject. The typical workflow looks like this:
-
-1. Collect 100-200+ images from various sources
-2. Each image has a different format (JPG, PNG, WebP, etc.)
-3. Each image has a cryptic filename like `IMG_20231015_143522.jpg`
-4. You need to manually edit and rename each one... **one by one** 😱
-
-I was spending hours just organizing files instead of actually training my models, so I created a bash script first and then also a web UI for more comfort.
-
-### The Problem I Had
-- ❌ Manually renaming +100 images
-- ❌ Inconsistent file formats causing training issues
-- ❌ Repetitive, soul-crushing work
-
-### The Solution I Created
-**MagicRenamer** automates the entire process:
-- ✅ Batch convert to PNG (the standard for training):
-- ✅ Sequential naming with optional prefixes: **Automated**
-- ✅ Process 100+ images: **Under a minute**
-- ✅ Clean, organized dataset ready for training
+[🇷🇺 Русский](readme_ru.md) | [🇮🇳न्दी](readme_hi.md)
 
 ## ✨ Features
 
