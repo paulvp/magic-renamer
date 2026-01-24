@@ -1,44 +1,17 @@
-# MagicRenamer
-
-[🇷🇺 Русский](readme_ru.md) | [🇮🇳न्दी](readme_hi.md)
-
-## ✨ Features
-
-- 🔄 **Batch Conversion**: Convert all images to PNG format
-- 📝 **Sequential Renaming**: Rename files as 1.png, 2.png, 3.png...
-- 🏷️ **Custom Prefixes**: Add prefixes like `anna-1.png`, `anna-2.png`
-- 🎨 **Interactive UI**: Beautiful colored terminal interface
-- 💬 **Interactive Mode**: Guided prompts for easy use
-- ⚡ **Multiple Format Support**: JPG, PNG, WebP, GIF, BMP, TIFF
-- 🛡️ **Safety Features**: Confirmation prompts before destructive operations
-- 📊 **Progress Tracking**: Real-time feedback with success/failure counts
-- 🎯 **Smart Crop**: AI-powered attention detection to keep important features when resizing
-- 📐 **Training Presets**: Quick resize to 512x512, 768x768, 1024x1024, 2048x2048
-
-## 📋 Use Cases
-
-### Perfect for:
-- 🤖 **AI/ML Training Datasets**: Organize images for LoRA, Stable Diffusion, or custom model training
-- 📸 **Photography Collections**: Batch process and organize photo shoots
-- 🎮 **Game Assets**: Prepare sprite sheets or texture collections
-- 📚 **Digital Archives**: Standardize image libraries
-- 🎨 **Art Projects**: Organize reference images or artwork collections
-
 **Setup:**
 ```bash
 git clone https://github.com/paulvp/magic-renamer
 cd magicrenamer
 chmod +x magic-renamer.sh magicrenamer_web.py
 
-# For web interface with smart crop
 uv venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+source .venv/bin/activate
 uv pip install -r requirements.txt
 ```
 
-## 📖 Usage
+## Usage
 
-### Web (Easiest way!)
+### Web
 
 ```bash
 # Run the web interface
@@ -130,7 +103,7 @@ Do you want to continue? (yes/no): yes
 - Depends on image sizes and system performance
 - No quality loss (PNG is lossless)
 
-## 🛠️ Technical Details
+## 🛠️echnical Details
 
 ### What the Script Does
 
@@ -154,33 +127,10 @@ Do you want to continue? (yes/no): yes
 - **Consistent format**: Eliminates format-related training issues
 - **Alpha channel support**: Handles transparency properly
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Ideas for Contributions
-- [ ] Add support for custom output formats (keep as JPG option)
-- [ ] Implement dry-run mode to preview changes
-- [ ] Add image quality/compression options
-- [ ] Create undo functionality (backup system)
-- [ ] Add image filtering (by size, dimensions, etc.)
-
-## 📝 License
-
 MIT License
 
 ---
 
 <p align="center">
-  Made with ☕️ and 🌃
-</p>
-
-<p align="center">
-  <sub>add ⭐</sub>
+  Made with ☕️
 </p>
